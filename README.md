@@ -1,6 +1,8 @@
 Digital Clock Implementation using DE2(cyclone2) Board
 
+
 you need to set DIGITALCLOCK.v as TOP module
+
 fucntion:
   1: timer
   2: time setting
